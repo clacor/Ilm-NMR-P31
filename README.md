@@ -1,0 +1,2 @@
+This repository introduces an open-access 31P Nuclear Magnetic Resonance (NMR) shift database designed to bridge the gap between commercial and open-access resources. With 43,317 entries encompassing 39,107 distinct molecules from 6,853 references, this database offers a comprehensive repository of organic and inorganic compounds. Emphasizing symmetric phosphorus compounds, the database facilitates data mining and machine learning endeavors, particularly in signal prediction and Computer-Assisted Structure Elucidation (CASE) systems.
+
